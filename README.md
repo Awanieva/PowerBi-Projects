@@ -1,4 +1,4 @@
-# Data Survey Professionals
+# Data Professionals Survey
 
 
 In this project i expoerted the data to power BI, cleaned the data on Power Query editor.
