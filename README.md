@@ -15,3 +15,5 @@ The level to which these professionals are happy with their salary and work-life
 Majority look out for better salary and remote jobs when searching for jobs.
 
 The results can be helpful for people trying to understand their place in the industry as well as for businesses trying to locate and keep outstanding data experts.
+
+View other Power BI project https://www.novypro.com/profile_projects/confidencekanayor
